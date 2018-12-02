@@ -61,12 +61,13 @@ body {
   color: black;
 }
 
-/*.card .card-body .price {
+.card .card-body .price {
   font-size: 24px;
   font-weight: bold;
   text-align: right;
 }
-.card .card-body .see {
+
+/*.card .card-body .see {
   bottom: 15px;
   font-weight: bold;
   right: 15px;

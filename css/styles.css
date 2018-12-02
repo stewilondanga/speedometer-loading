@@ -87,7 +87,7 @@ body {
   text-decoration: underline;
 }
 
-/*.card .card-header {
+.card .card-header {
   background-color: #ff6600;
   background-position: top center;
   background-repeat: no-repeat;
@@ -98,7 +98,7 @@ body {
   width: 100%;
 }
 
-.wrapper-speedometer {
+/*.wrapper-speedometer {
   background: rgba(255, 255, 255, 0.5);
   height: 100%;
   position: relative;

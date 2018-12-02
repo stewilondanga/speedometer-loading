@@ -98,13 +98,14 @@ body {
   width: 100%;
 }
 
-/*.wrapper-speedometer {
+.wrapper-speedometer {
   background: rgba(255, 255, 255, 0.5);
   height: 100%;
   position: relative;
   width: 100%;
 }
-.wrapper-speedometer .speedometer {
+
+/*.wrapper-speedometer .speedometer {
   border: 4px solid black;
   border-radius: 200px 200px 0 0;
   height: 60px;

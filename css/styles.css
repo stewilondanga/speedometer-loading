@@ -366,7 +366,7 @@ body {
   }
 }
 
-/*@-moz-keyframes roll {
+@-moz-keyframes roll {
   0% {
     -moz-transform: rotate(-90deg);
   }
@@ -425,7 +425,8 @@ body {
     -moz-transform: rotate(-90deg);
   }
 }
-@keyframes roll {
+
+/*@keyframes roll {
   0% {
     transform: rotate(-90deg);
   }

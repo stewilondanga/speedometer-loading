@@ -276,10 +276,11 @@ body {
   transform: rotate(166deg);
 }
 
-/*.wrapper-speedometer .speedometer .wrapper-dial .dial.dial-17 {
+.wrapper-speedometer .speedometer .wrapper-dial .dial.dial-17 {
   left: 104px;
 }
-.wrapper-speedometer .speedometer .wrapper-dial .pointer {
+
+/*.wrapper-speedometer .speedometer .wrapper-dial .pointer {
   bottom: 0;
   left: 50%;
   position: absolute;

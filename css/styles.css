@@ -134,12 +134,13 @@ body {
   transform: translateX(-50%);
 }
 
-/*.wrapper-speedometer .speedometer .wrapper-dial {
+.wrapper-speedometer .speedometer .wrapper-dial {
   height: 100%;
   position: relative;
   width: 100%;
 }
-.wrapper-speedometer .speedometer .wrapper-dial .dial {
+
+/*.wrapper-speedometer .speedometer .wrapper-dial .dial {
   background: black;
   height: 4px;
   position: absolute;

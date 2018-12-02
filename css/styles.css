@@ -77,12 +77,13 @@ body {
   text-transform: uppercase;
 }
 
-/*.card .card-body .see a {
+.card .card-body .see a {
   color: #ff6600;
   line-height: 20px;
   text-decoration: none;
 }
-.card .card-body .see a:hover {
+
+/*.card .card-body .see a:hover {
   text-decoration: underline;
 }
 .card .card-header {

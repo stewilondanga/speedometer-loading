@@ -148,10 +148,11 @@ body {
   z-index: 2;
 }
 
-/*.wrapper-speedometer .speedometer .wrapper-dial .dial.lng {
+.wrapper-speedometer .speedometer .wrapper-dial .dial.lng {
   width: 13px;
 }
-.wrapper-speedometer .speedometer .wrapper-dial .dial.dial-1, .wrapper-speedometer .speedometer .wrapper-dial .dial.dial-17 {
+
+/*.wrapper-speedometer .speedometer .wrapper-dial .dial.dial-1, .wrapper-speedometer .speedometer .wrapper-dial .dial.dial-17 {
   bottom: 3px;
 }
 .wrapper-speedometer .speedometer .wrapper-dial .dial.dial-2 {

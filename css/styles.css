@@ -287,7 +287,7 @@ body {
   z-index: 3;
 }
 
-/*.wrapper-speedometer .speedometer .wrapper-dial .pointer::before {
+.wrapper-speedometer .speedometer .wrapper-dial .pointer::before {
   background: #ff6600;
   bottom: 0;
   border-top-left-radius: 5px;
@@ -306,7 +306,7 @@ body {
   animation: roll 4.5s infinite ease-out;
 }
 
-@-webkit-keyframes roll {
+/*@-webkit-keyframes roll {
   0% {
     -webkit-transform: rotate(-90deg);
   }

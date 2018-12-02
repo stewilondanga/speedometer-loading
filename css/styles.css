@@ -306,7 +306,7 @@ body {
   animation: roll 4.5s infinite ease-out;
 }
 
-/*@-webkit-keyframes roll {
+@-webkit-keyframes roll {
   0% {
     -webkit-transform: rotate(-90deg);
   }
@@ -365,7 +365,8 @@ body {
     -webkit-transform: rotate(-90deg);
   }
 }
-@-moz-keyframes roll {
+
+/*@-moz-keyframes roll {
   0% {
     -moz-transform: rotate(-90deg);
   }

@@ -140,14 +140,15 @@ body {
   width: 100%;
 }
 
-/*.wrapper-speedometer .speedometer .wrapper-dial .dial {
+.wrapper-speedometer .speedometer .wrapper-dial .dial {
   background: black;
   height: 4px;
   position: absolute;
   width: 8px;
   z-index: 2;
 }
-.wrapper-speedometer .speedometer .wrapper-dial .dial.lng {
+
+/*.wrapper-speedometer .speedometer .wrapper-dial .dial.lng {
   width: 13px;
 }
 .wrapper-speedometer .speedometer .wrapper-dial .dial.dial-1, .wrapper-speedometer .speedometer .wrapper-dial .dial.dial-17 {

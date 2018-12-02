@@ -204,14 +204,15 @@ body {
   transform: rotate(65deg);
 }
 
-/*.wrapper-speedometer .speedometer .wrapper-dial .dial.dial-8 {
+.wrapper-speedometer .speedometer .wrapper-dial .dial.dial-8 {
   bottom: 54px;
   left: 43px;
   -webkit-transform: rotate(76deg);
   -moz-transform: rotate(76deg);
   transform: rotate(76deg);
 }
-.wrapper-speedometer .speedometer .wrapper-dial .dial.dial-9 {
+
+/*.wrapper-speedometer .speedometer .wrapper-dial .dial.dial-9 {
   bottom: 52px;
   left: 51px;
   -webkit-transform: rotate(90deg);

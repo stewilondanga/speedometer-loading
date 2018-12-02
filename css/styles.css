@@ -67,7 +67,7 @@ body {
   text-align: right;
 }
 
-/*.card .card-body .see {
+.card .card-body .see {
   bottom: 15px;
   font-weight: bold;
   right: 15px;
@@ -76,7 +76,8 @@ body {
   text-decoration: none;
   text-transform: uppercase;
 }
-.card .card-body .see a {
+
+/*.card .card-body .see a {
   color: #ff6600;
   line-height: 20px;
   text-decoration: none;

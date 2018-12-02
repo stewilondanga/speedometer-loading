@@ -280,13 +280,14 @@ body {
   left: 104px;
 }
 
-/*.wrapper-speedometer .speedometer .wrapper-dial .pointer {
+.wrapper-speedometer .speedometer .wrapper-dial .pointer {
   bottom: 0;
   left: 50%;
   position: absolute;
   z-index: 3;
 }
-.wrapper-speedometer .speedometer .wrapper-dial .pointer::before {
+
+/*.wrapper-speedometer .speedometer .wrapper-dial .pointer::before {
   background: #ff6600;
   bottom: 0;
   border-top-left-radius: 5px;

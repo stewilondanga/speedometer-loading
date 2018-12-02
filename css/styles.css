@@ -83,10 +83,11 @@ body {
   text-decoration: none;
 }
 
-/*.card .card-body .see a:hover {
+.card .card-body .see a:hover {
   text-decoration: underline;
 }
-.card .card-header {
+
+/*.card .card-header {
   background-color: #ff6600;
   background-position: top center;
   background-repeat: no-repeat;

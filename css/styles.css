@@ -57,10 +57,11 @@ body {
   margin-top: 10px;
 }
 
-/*.card .card-body p {
+.card .card-body p {
   color: black;
 }
-.card .card-body .price {
+
+/*.card .card-body .price {
   font-size: 24px;
   font-weight: bold;
   text-align: right;
